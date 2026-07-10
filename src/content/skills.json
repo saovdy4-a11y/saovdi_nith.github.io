@@ -1,0 +1,86 @@
+[
+  {
+    "id": "garden-maintenance",
+    "name": "Garden Maintenance",
+    "category": "Landscaping & Horticulture",
+    "proficiency": 90,
+    "icon": "https://api.iconify.design/mdi:flower.svg"
+  },
+  {
+    "id": "plant-installation",
+    "name": "Plant Installation",
+    "category": "Landscaping & Horticulture",
+    "proficiency": 88,
+    "icon": "https://api.iconify.design/mdi:sprout.svg"
+  },
+  {
+    "id": "landscape-gardening",
+    "name": "Landscape Gardening",
+    "category": "Landscaping & Horticulture",
+    "proficiency": 85,
+    "icon": "https://api.iconify.design/mdi:pine-tree.svg"
+  },
+  {
+    "id": "sustainable-horticulture",
+    "name": "Sustainable Horticulture",
+    "category": "Landscaping & Horticulture",
+    "proficiency": 80,
+    "icon": "https://api.iconify.design/mdi:leaf.svg"
+  },
+  {
+    "id": "plant-care",
+    "name": "Plant Care",
+    "category": "Landscaping & Horticulture",
+    "proficiency": 88,
+    "icon": "https://api.iconify.design/mdi:watering-can.svg"
+  },
+  {
+    "id": "teamwork",
+    "name": "Teamwork & Adaptability",
+    "category": "Personal Skills",
+    "proficiency": 90,
+    "icon": "https://api.iconify.design/mdi:account-group.svg"
+  },
+  {
+    "id": "public-speaking",
+    "name": "Public Speaking (Moderator & Emcee)",
+    "category": "Personal Skills",
+    "proficiency": 85,
+    "icon": "https://api.iconify.design/mdi:microphone.svg"
+  },
+  {
+    "id": "time-management",
+    "name": "Time Management",
+    "category": "Personal Skills",
+    "proficiency": 85,
+    "icon": "https://api.iconify.design/mdi:clock-outline.svg"
+  },
+  {
+    "id": "driving-license",
+    "name": "Valid Cambodian Driver's License",
+    "category": "Personal Skills",
+    "proficiency": 100,
+    "icon": "https://api.iconify.design/mdi:card-account-details-outline.svg"
+  },
+  {
+    "id": "computer-skills",
+    "name": "Word, Excel, PowerPoint & Outlook",
+    "category": "Tools & Languages",
+    "proficiency": 75,
+    "icon": "https://api.iconify.design/mdi:microsoft-office.svg"
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer (Mother tongue)",
+    "category": "Tools & Languages",
+    "proficiency": 100,
+    "icon": "https://api.iconify.design/circle-flags:kh.svg"
+  },
+  {
+    "id": "english",
+    "name": "English (Advanced)",
+    "category": "Tools & Languages",
+    "proficiency": 85,
+    "icon": "https://api.iconify.design/circle-flags:gb.svg"
+  }
+]

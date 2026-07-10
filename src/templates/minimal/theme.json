@@ -1,0 +1,22 @@
+{
+  "tokens": {
+    "light": {
+      "--color-bg": "#ffffff",
+      "--color-surface": "#f3f8f1",
+      "--color-text": "#16241a",
+      "--color-muted": "#556b53",
+      "--color-accent": "#2f7d32",
+      "--color-accent-contrast": "#ffffff",
+      "--color-border": "#dde8d9"
+    },
+    "dark": {
+      "--color-bg": "#0f140f",
+      "--color-surface": "#161d16",
+      "--color-text": "#e8f0e6",
+      "--color-muted": "#9db097",
+      "--color-accent": "#6cc26f",
+      "--color-accent-contrast": "#0f140f",
+      "--color-border": "#26301f"
+    }
+  }
+}

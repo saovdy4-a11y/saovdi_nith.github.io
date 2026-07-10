@@ -1,0 +1,51 @@
+[
+  {
+    "id": "jungle-a-domicile",
+    "company": "Jungle À Domicile",
+    "role": "Landscape Gardener",
+    "startDate": "2024-01-01",
+    "endDate": "",
+    "summary": "Designing, planting, and maintaining gardens and green spaces for residential and commercial clients.",
+    "bullets": [
+      "Install and arrange plants, trees, and features to bring landscape designs to life.",
+      "Maintain gardens through pruning, watering, soil care, and seasonal upkeep.",
+      "Advise clients on plant selection and long-term care for healthy, sustainable gardens."
+    ]
+  },
+  {
+    "id": "cesain",
+    "company": "CESAIN",
+    "role": "Labourer",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
+    "summary": "Hands-on agricultural and field work supporting day-to-day operations.",
+    "bullets": [
+      "Carried out planting, cultivation, and general field tasks in outdoor conditions.",
+      "Worked reliably as part of a team to meet daily targets."
+    ]
+  },
+  {
+    "id": "pteah-chas",
+    "company": "Pteah Chas Community",
+    "role": "Event Executive",
+    "startDate": "2024-01-01",
+    "endDate": "2025-01-01",
+    "summary": "Helping plan and run community events, including the Phnom Penh Houseplant Festival.",
+    "bullets": [
+      "Coordinated logistics and on-the-day operations for community events.",
+      "Acted as moderator and emcee, engaging audiences and keeping programs on schedule."
+    ]
+  },
+  {
+    "id": "passitback",
+    "company": "PASSITBACK by ChildFund",
+    "role": "Rugby Coach",
+    "startDate": "2021-01-01",
+    "endDate": "2023-01-01",
+    "summary": "Coaching young players through a sport-for-development program.",
+    "bullets": [
+      "Led training sessions building teamwork, discipline, and life skills for youth.",
+      "Mentored players and supported their personal growth on and off the field."
+    ]
+  }
+]

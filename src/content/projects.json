@@ -1,0 +1,50 @@
+[
+  {
+    "id": "residential-garden-design",
+    "title": "Residential Garden Installations",
+    "summary": "Full garden installations for homes with Jungle À Domicile.",
+    "description": "As a landscape gardener with Jungle À Domicile, I help transform residential spaces into thriving gardens. This work covers site preparation, soil improvement, plant selection, and the careful installation of trees, shrubs, and ornamental plants. Each garden is planned for the local Cambodian climate so it stays healthy and beautiful with sustainable, low-waste maintenance.",
+    "tags": ["Landscape Gardening", "Plant Installation", "Garden Maintenance"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": true,
+    "date": "2024-06-01"
+  },
+  {
+    "id": "phnom-penh-houseplant-festival",
+    "title": "Phnom Penh Houseplant Festival",
+    "summary": "Event execution and hosting for a community plant festival.",
+    "description": "With the Pteah Chas Community I helped plan and run the Phnom Penh Houseplant Festival, a celebration of plants and green living. My role spanned event logistics, vendor coordination, and acting as moderator and emcee to keep the program lively and on schedule while connecting plant lovers across the city.",
+    "tags": ["Community", "Event Management", "Public Speaking"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": true,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "sustainable-horticulture",
+    "title": "Sustainable Horticulture Practice",
+    "summary": "Applying agricultural science to greener, longer-lasting gardens.",
+    "description": "Drawing on my studies at the Royal University of Agriculture, I put sustainable horticulture into practice: choosing the right plants for each site, improving soil naturally, conserving water, and maintaining gardens in ways that reduce waste. The goal is landscapes that stay healthy over time and are kinder to the environment.",
+    "tags": ["Sustainable Horticulture", "Agricultural Science", "Plant Care"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2023-09-01"
+  },
+  {
+    "id": "youth-sport-development",
+    "title": "Youth Rugby Coaching",
+    "summary": "Sport-for-development coaching with PASSITBACK by ChildFund.",
+    "description": "For two years I coached young rugby players in the PASSITBACK program by ChildFund. Beyond the sport, the program builds teamwork, discipline, and confidence in youth. I planned training sessions and mentored players, supporting their growth both on and off the field.",
+    "tags": ["Coaching", "Teamwork", "Community"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2021-03-01"
+  }
+]
