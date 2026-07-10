@@ -1,5 +1,6 @@
 import { useHead } from '@unhead/vue'
 import { useContent } from '@/composables/useContent.js'
+import { resolveAsset } from '@/composables/useAssetUrl.js'
 
 /**
  * Sets per-route head/meta via @unhead/vue: title, description, canonical URL,
@@ -19,7 +20,7 @@ export function useSeo(overrides = {}) {
   const title = overrides.title ? `${overrides.title} — ${p.name}` : s.title
   const description = overrides.description || s.description
   const url = `${s.siteUrl}${overrides.path || ''}`
-  const image = s.ogImage?.startsWith('http') ? s.ogImage : `${s.siteUrl}${s.ogImage || ''}`
+  const image = s.ogImage?.startsWith('http') ? s.ogImage : `${s.siteUrl}${resolveAsset(s.ogImage || '')}`
 
   const jsonLd = {
     '@context': 'https://schema.org',

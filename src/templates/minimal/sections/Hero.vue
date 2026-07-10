@@ -2,14 +2,17 @@
 import { computed, onBeforeUnmount, ref, watchEffect } from 'vue'
 import { usePreferredReducedMotion } from '@vueuse/core'
 import { useContent } from '@/composables/useContent.js'
+import { resolveAsset } from '@/composables/useAssetUrl.js'
 import BaseButton from '@/components/ui/BaseButton.vue'
 
 const { profile } = useContent()
 
 const photos = computed(() => {
   const list = profile.value.avatars?.length ? profile.value.avatars : [profile.value.avatar]
-  return list.filter(Boolean)
+  return list.filter(Boolean).map(resolveAsset)
 })
+
+const resumeUrl = computed(() => resolveAsset(profile.value.resumeUrl))
 
 const activeIndex = ref(0)
 const reducedMotion = usePreferredReducedMotion()
@@ -64,7 +67,7 @@ onBeforeUnmount(() => timer && clearInterval(timer))
             Get in touch
           </BaseButton>
           <BaseButton
-            :href="profile.resumeUrl"
+            :href="resumeUrl"
             variant="ghost"
           >
             Download CV
