@@ -3,7 +3,6 @@ import { ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { useContent } from '@/composables/useContent.js'
 import ThemeSwitcher from '@/components/shared/ThemeSwitcher.vue'
-import TemplateSwitcher from '@/components/shared/TemplateSwitcher.vue'
 
 const { profile } = useContent()
 const router = useRouter()
@@ -61,7 +60,6 @@ function go(hash) {
           </li>
         </ul>
         <div class="nav__actions">
-          <TemplateSwitcher />
           <ThemeSwitcher />
         </div>
       </nav>
