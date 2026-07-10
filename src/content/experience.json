@@ -5,11 +5,11 @@
     "role": "Landscape Gardener",
     "startDate": "2024-01-01",
     "endDate": "",
-    "summary": "Designing, planting, and maintaining gardens and green spaces for residential and commercial clients.",
+    "summary": "Full-service landscape gardening for residential and commercial clients.",
     "bullets": [
-      "Install and arrange plants, trees, and features to bring landscape designs to life.",
-      "Maintain gardens through pruning, watering, soil care, and seasonal upkeep.",
-      "Advise clients on plant selection and long-term care for healthy, sustainable gardens."
+      "Garden maintenance: pruning, lawn care, fertilizer application.",
+      "Plant installation and landscape installation for new and existing gardens.",
+      "Provide ongoing plant care to keep gardens healthy and thriving."
     ]
   },
   {
@@ -18,10 +18,10 @@
     "role": "Labourer",
     "startDate": "2023-01-01",
     "endDate": "2024-01-01",
-    "summary": "Hands-on agricultural and field work supporting day-to-day operations.",
+    "summary": "Agricultural field operations and research support.",
     "bullets": [
-      "Carried out planting, cultivation, and general field tasks in outdoor conditions.",
-      "Worked reliably as part of a team to meet daily targets."
+      "Field operations: crop maintenance, plot preparation, and planting.",
+      "Supported agricultural research through hands-on fieldwork."
     ]
   },
   {
@@ -30,10 +30,10 @@
     "role": "Event Executive",
     "startDate": "2024-01-01",
     "endDate": "2025-01-01",
-    "summary": "Helping plan and run community events, including the Phnom Penh Houseplant Festival.",
+    "summary": "Event coordination for community and plant-related events.",
     "bullets": [
-      "Coordinated logistics and on-the-day operations for community events.",
-      "Acted as moderator and emcee, engaging audiences and keeping programs on schedule."
+      "Event coordination, vendor management, and logistics.",
+      "Customer service and on-the-day programme execution."
     ]
   },
   {
@@ -42,10 +42,10 @@
     "role": "Rugby Coach",
     "startDate": "2021-01-01",
     "endDate": "2023-01-01",
-    "summary": "Coaching young players through a sport-for-development program.",
+    "summary": "Youth coaching through a sport-for-development programme.",
     "bullets": [
-      "Led training sessions building teamwork, discipline, and life skills for youth.",
-      "Mentored players and supported their personal growth on and off the field."
+      "Led youth coaching sessions focused on leadership and teamwork.",
+      "Mentored young players and supported their personal growth."
     ]
   }
 ]

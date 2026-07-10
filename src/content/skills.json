@@ -63,23 +63,37 @@
     "icon": "https://api.iconify.design/mdi:card-account-details-outline.svg"
   },
   {
-    "id": "computer-skills",
-    "name": "Word, Excel, PowerPoint & Outlook",
-    "category": "Tools & Languages",
+    "id": "ms-office",
+    "name": "Microsoft Word, Excel & PowerPoint",
+    "category": "Tools & Software",
     "proficiency": 75,
     "icon": "https://api.iconify.design/mdi:microsoft-office.svg"
   },
   {
+    "id": "canva",
+    "name": "Canva",
+    "category": "Tools & Software",
+    "proficiency": 80,
+    "icon": "https://cdn.simpleicons.org/canva"
+  },
+  {
+    "id": "capcut",
+    "name": "CapCut",
+    "category": "Tools & Software",
+    "proficiency": 75,
+    "icon": "https://api.iconify.design/mdi:movie-edit.svg"
+  },
+  {
     "id": "khmer",
-    "name": "Khmer (Mother tongue)",
-    "category": "Tools & Languages",
+    "name": "Khmer (Native)",
+    "category": "Languages",
     "proficiency": 100,
     "icon": "https://api.iconify.design/circle-flags:kh.svg"
   },
   {
     "id": "english",
     "name": "English (Advanced)",
-    "category": "Tools & Languages",
+    "category": "Languages",
     "proficiency": 85,
     "icon": "https://api.iconify.design/circle-flags:gb.svg"
   }

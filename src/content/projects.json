@@ -3,7 +3,7 @@
     "id": "residential-garden-design",
     "title": "Residential Garden Installations",
     "summary": "Full garden installations for homes with Jungle À Domicile.",
-    "description": "As a landscape gardener with Jungle À Domicile, I help transform residential spaces into thriving gardens. This work covers site preparation, soil improvement, plant selection, and the careful installation of trees, shrubs, and ornamental plants. Each garden is planned for the local Cambodian climate so it stays healthy and beautiful with sustainable, low-waste maintenance.",
+    "description": "As a landscape gardener with Jungle À Domicile, I help transform residential spaces into thriving gardens. This covers garden maintenance, pruning, lawn care, fertilizer application, plant installation, and full landscape installation. Each garden is planned for the local Cambodian climate so it stays healthy with sustainable, low-waste upkeep.",
     "tags": ["Landscape Gardening", "Plant Installation", "Garden Maintenance"],
     "coverImage": "",
     "liveUrl": "",
@@ -12,16 +12,52 @@
     "date": "2024-06-01"
   },
   {
+    "id": "lets-plant-2025",
+    "title": "Let's Plant 2025 — Mangrove Planting",
+    "summary": "Volunteer mangrove tree planting at Kampong Samaki Community with JCI Cambodia.",
+    "description": "In 2025 I volunteered for Let's Plant 2025, an initiative hosted by JCI Cambodia focused on mangrove restoration. We planted mangrove trees at the Kampong Samaki Community, contributing to coastal protection and biodiversity. The experience reinforced my commitment to sustainability and hands-on environmental work.",
+    "tags": ["Volunteering", "Sustainability", "Community"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": true,
+    "date": "2025-03-01"
+  },
+  {
     "id": "phnom-penh-houseplant-festival",
     "title": "Phnom Penh Houseplant Festival",
     "summary": "Event execution and hosting for a community plant festival.",
-    "description": "With the Pteah Chas Community I helped plan and run the Phnom Penh Houseplant Festival, a celebration of plants and green living. My role spanned event logistics, vendor coordination, and acting as moderator and emcee to keep the program lively and on schedule while connecting plant lovers across the city.",
-    "tags": ["Community", "Event Management", "Public Speaking"],
+    "description": "With the Pteah Chas Community I helped plan and run the Phnom Penh Houseplant Festival, a celebration of plants and green living. My role spanned event logistics, vendor coordination, and customer service while connecting plant lovers across the city.",
+    "tags": ["Community", "Event Management", "Plant Culture"],
     "coverImage": "",
     "liveUrl": "",
     "repoUrl": "",
     "featured": true,
     "date": "2024-11-01"
+  },
+  {
+    "id": "celebrating-cambodia-2024",
+    "title": "Celebrating Cambodia — Event Coordinator",
+    "summary": "Volunteer event coordination for a national cultural celebration.",
+    "description": "In 2024 I volunteered as event coordinator for Celebrating Cambodia, hosted by The Union Youth Federation of Cambodia. I helped with logistics and on-site execution to showcase Cambodian culture and community spirit.",
+    "tags": ["Volunteering", "Event Management", "Community"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "maloop-garden-market",
+    "title": "Maloop Garden Market — Event Coordinator",
+    "summary": "Organized a garden market event for Pteah Chas Community.",
+    "description": "In 2023 I volunteered to help organise the Maloop Garden Market, an outdoor market showcasing plants and garden products, hosted by Pteah Chas Community. I handled coordination and logistics to bring vendors and plant enthusiasts together.",
+    "tags": ["Volunteering", "Event Management", "Plant Culture"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2023-10-01"
   },
   {
     "id": "sustainable-horticulture",
@@ -39,12 +75,36 @@
     "id": "youth-sport-development",
     "title": "Youth Rugby Coaching",
     "summary": "Sport-for-development coaching with PASSITBACK by ChildFund.",
-    "description": "For two years I coached young rugby players in the PASSITBACK program by ChildFund. Beyond the sport, the program builds teamwork, discipline, and confidence in youth. I planned training sessions and mentored players, supporting their growth both on and off the field.",
+    "description": "For two years I coached young rugby players in the PASSITBACK programme by ChildFund. Beyond the sport, the programme builds teamwork, discipline, and confidence in youth. I planned training sessions and mentored players, supporting their growth both on and off the field.",
     "tags": ["Coaching", "Teamwork", "Community"],
     "coverImage": "",
     "liveUrl": "",
     "repoUrl": "",
     "featured": false,
     "date": "2021-03-01"
+  },
+  {
+    "id": "temasek-environment-camp",
+    "title": "Youth Environment Camp (TEMASEK Foundation × NUS)",
+    "summary": "Selected for a sustainability camp hosted by TEMASEK Foundation and the National University of Singapore.",
+    "description": "In 2022 I was selected to participate in the Youth Environment Camp hosted by TEMASEK Foundation in partnership with the National University of Singapore. The programme deepened my understanding of environmental sustainability and connected me with like-minded youth across the region.",
+    "tags": ["Achievement", "Sustainability", "International"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2022-06-01"
+  },
+  {
+    "id": "gift-diversity-voyage",
+    "title": "GIFT Diversity Voyage (Japan) — Global Citizenship",
+    "summary": "Participated in a Global Citizenship Education Program in 2022 and 2023.",
+    "description": "I participated in the GIFT Diversity Voyage, a Global Citizenship Education Program connecting youth from Phnom Penh with peers in Japan. Across two years (2022 and 2023), the programme built cross-cultural understanding, leadership skills, and a global perspective on community development.",
+    "tags": ["Achievement", "International", "Leadership"],
+    "coverImage": "",
+    "liveUrl": "",
+    "repoUrl": "",
+    "featured": false,
+    "date": "2022-09-01"
   }
 ]
