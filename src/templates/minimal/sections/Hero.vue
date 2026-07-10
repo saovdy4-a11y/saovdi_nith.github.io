@@ -167,15 +167,26 @@ onBeforeUnmount(() => timer && clearInterval(timer))
   opacity: 1;
 }
 
+/* Show first image immediately even before JS hydrates */
+.hero__img:first-child {
+  opacity: 1;
+}
+
+.hero__img:first-child:not(.is-active) {
+  opacity: 0;
+}
+
 @media (max-width: 768px) {
   .hero__grid {
     grid-template-columns: 1fr;
   }
 
   .hero__photo {
-    max-width: 320px;
+    width: 100%;
+    max-width: 280px;
     margin-inline: auto;
     order: -1;
+    aspect-ratio: 1 / 1;
   }
 }
 </style>
